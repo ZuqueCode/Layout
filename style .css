@@ -2,6 +2,7 @@ body {
     background-color: rgb(129, 129, 255);
 }
 
+
 .yo2 {
     padding: 110;
     margin: 20;
@@ -26,4 +27,32 @@ body {
 .green {
     padding-right: 18%;
     background-color: rgb(130, 255, 119);
+}
+
+    .flex3{
+
+        display: flex;
+    }
+
+
+.yo3{
+    height: 350 ;
+    background-color: rgb(241, 255, 119);
+    padding: 75;
+    margin: 20;
+    width: 35px;
+}
+
+.lado{
+
+    height: 15;
+     background-color: rgb(241, 255, 119);
+     padding: 75;
+     margin: 20;
+     width: 344px;
+}
+
+.red{
+    padding-bottom:300px;
+    background-color: red
 }
