@@ -56,3 +56,17 @@ body {
     padding-bottom:300px;
     background-color: red
 }
+
+.bloco{
+
+background-color: black;
+padding-bottom:300px ;
+width: 240px;
+}
+
+.alto{
+padding: 75;
+height: 300;
+width: 35px;
+
+}
